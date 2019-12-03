@@ -1,5 +1,6 @@
+/* global elementResizeDetectorMaker */
+
 import Service from '@ember/service';
-import elementResizeDetectorMaker from 'element-resize-detector';
 
 export default Service.extend({
   init() {

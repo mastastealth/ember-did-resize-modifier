@@ -27,8 +27,7 @@
     "changelog": "lerna-changelog"
   },
   "dependencies": {
-    "element-resize-detector": "^1.1.15",
-    "ember-auto-import": "^1.5.3",
+    "ember-element-resize-detector": "^0.4.0",
     "ember-cli-babel": "^7.13.0",
     "ember-cli-htmlbars": "^4.0.8",
     "ember-modifier-manager-polyfill": "^1.2.0"
